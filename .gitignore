@@ -1,0 +1,6 @@
+.env
+image.png
+video.mp4
+payload.json
+__pycache__/
+venv/
